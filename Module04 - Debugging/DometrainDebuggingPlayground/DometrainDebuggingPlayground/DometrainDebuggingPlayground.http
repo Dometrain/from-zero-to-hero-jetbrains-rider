@@ -1,0 +1,9 @@
+@DometrainDebuggingPlayground_HostAddress = http://localhost:5256
+
+GET {{DometrainDebuggingPlayground_HostAddress}}/podcasts/bygenre?genre=dotnet
+Accept: application/json
+
+###
+
+GET {{DometrainDebuggingPlayground_HostAddress}}/podcasts/bysearchterm?searchTerm=Exception
+Accept: application/json

@@ -1,0 +1,17 @@
+services:
+
+  database:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: database
+    environment:
+      - ACCEPT_EULA=true
+      - MSSQL_SA_PASSWORD=Dometrain#123
+    ports:
+      - 1433:1433
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672

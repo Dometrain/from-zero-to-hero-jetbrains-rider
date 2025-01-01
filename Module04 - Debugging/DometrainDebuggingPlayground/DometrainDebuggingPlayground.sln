@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DometrainDebuggingPlayground", "DometrainDebuggingPlayground\DometrainDebuggingPlayground.csproj", "{B6B9CA05-32A0-487B-A8F9-BA620E4F2F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DometrainDebuggingPlayground.Tests", "DometrainDebuggingPlayground.Tests\DometrainDebuggingPlayground.Tests.csproj", "{0BE4327C-3CF4-4CCC-80B5-71E4F08438F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B9CA05-32A0-487B-A8F9-BA620E4F2F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B9CA05-32A0-487B-A8F9-BA620E4F2F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B9CA05-32A0-487B-A8F9-BA620E4F2F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B9CA05-32A0-487B-A8F9-BA620E4F2F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE4327C-3CF4-4CCC-80B5-71E4F08438F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE4327C-3CF4-4CCC-80B5-71E4F08438F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE4327C-3CF4-4CCC-80B5-71E4F08438F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE4327C-3CF4-4CCC-80B5-71E4F08438F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedHttpClient-DemoApi", "IntegratedHttpClient-DemoApi\IntegratedHttpClient-DemoApi.csproj", "{EBCEB84E-7F76-4419-97AA-353C4A39A57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCEB84E-7F76-4419-97AA-353C4A39A57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCEB84E-7F76-4419-97AA-353C4A39A57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCEB84E-7F76-4419-97AA-353C4A39A57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCEB84E-7F76-4419-97AA-353C4A39A57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiAssistantDemo", "AiAssistantDemo\AiAssistantDemo.csproj", "{D454C972-65B0-4506-91DD-4E24A2B982C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiAssistantDemo.Tests", "AiAssistantDemo.Tests\AiAssistantDemo.Tests.csproj", "{F1E172B5-AB44-44EE-A8A4-8F4ED0E4BD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D454C972-65B0-4506-91DD-4E24A2B982C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D454C972-65B0-4506-91DD-4E24A2B982C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D454C972-65B0-4506-91DD-4E24A2B982C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D454C972-65B0-4506-91DD-4E24A2B982C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E172B5-AB44-44EE-A8A4-8F4ED0E4BD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E172B5-AB44-44EE-A8A4-8F4ED0E4BD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E172B5-AB44-44EE-A8A4-8F4ED0E4BD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E172B5-AB44-44EE-A8A4-8F4ED0E4BD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

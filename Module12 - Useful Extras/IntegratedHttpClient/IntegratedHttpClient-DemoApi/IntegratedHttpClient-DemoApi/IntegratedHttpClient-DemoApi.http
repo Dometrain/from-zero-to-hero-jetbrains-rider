@@ -1,0 +1,19 @@
+GET {{baseUri}}/weatherforecast/
+Accept: application/json
+
+### Post new weather forecast
+
+POST {{baseUri}}/weatherforecast/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "name": "Dan"
+}
+
+###
+
+GET http://localhost:80/api/item
+Accept: application/json
+
+###
